@@ -1,0 +1,1 @@
+Gracias a los estatus http de la respuestas pude validar rápidamente que los servision solo aceptaban request POST
